@@ -1,4 +1,4 @@
-Hello, I'm Max!
+Hello, I'm Kunal!
 I don't generally use Github much but I do work with some Java and a little bit of Python.
 Also admittedly I've just been kinda lazy with developing stuff on my own, however I can help wrap up something that needs to be worked on.
 
